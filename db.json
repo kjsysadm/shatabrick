@@ -1,17 +1,18 @@
 {
   "players": [
-    {
-	   "Nickname": "ku7ari^",
-	   "Rank1v1": "44",
-	   "LadderStats": "6/3",
-	   "ELO": "1111",
-	   "Games": "433",
-	   "Wins": "183",
-	   "Losses": "249",
-	   "Disconnects": "18",
-	   "Desyncs": "2",
-	   "History": "X"
-	 },
+     {
+      "id": 1,
+      "Nickname": "ku7ari^",
+      "Rank1v1": "44",
+      "LadderStats": "6/3",
+      "ELO": "1111",
+      "Games": "433",
+      "Wins": "183",
+      "Losses": "249",
+      "Disconnects": "18",
+      "Desyncs": "2",
+      "History": "X"
+    },
     {
       "id": 2,
       "title": "Post 2"
