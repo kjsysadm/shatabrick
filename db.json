@@ -15,10 +15,23 @@
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "Nickname": "ExDacKaL^^",
+      "Rank1v1": "1",
+      "LadderStats": "87/17",
+      "ELO": "1566",
+      "Games": "201",
+      "Wins": "183",
+      "Losses": "18",
+      "Disconnects": "7",
+      "Desyncs": "3",
+      "History": "X"
     },
     {
       "id": 3,
+      "title": "Post 2"
+    },
+    {
+      "id": 4,
       "title": "Post 3"
     }
   ],
